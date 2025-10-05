@@ -2,22 +2,17 @@
 
 # 🧠 RAG Course – Building Retrieval-Augmented Generation Systems
 
-This repository contains the complete code and lessons from a **hands-on RAG (Retrieval-Augmented Generation) course**, developed step by step with the assistance of **ChatGPT**.  
-The course covers the main concepts and practical techniques behind modern RAG systems — from vector embeddings and FAISS indexing to re-ranking, vector databases, and LangChain chunking.
-
 ![GitHub top language](https://img.shields.io/github/languages/top/alerone/rag-course?color=%2377CDFF)
 ![GitHub last commit](https://img.shields.io/github/last-commit/alerone/rag-course?color=%23bc0bbf)
 ![GitHub Created At](https://img.shields.io/github/created-at/alerone/rag-course?color=%230dba69)
 ![GitHub repo size](https://img.shields.io/github/repo-size/alerone/rag-course?color=%23390385)
 
 <br>
-
 <img width="250" height="250" alt="rag-course image" src="https://github.com/user-attachments/assets/11ab90d0-9eba-4f0e-b3aa-4ed2ea5c3b86" />
-
-
 </div>
 
-
+This repository contains the complete code and lessons from a **hands-on RAG (Retrieval-Augmented Generation) course**, developed step by step with the assistance of **ChatGPT**.  
+The course covers the main concepts and practical techniques behind modern RAG systems — from vector embeddings and FAISS indexing to re-ranking, vector databases, and LangChain chunking.
 
 ## 📚 Course Overview
 
