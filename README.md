@@ -67,6 +67,9 @@ git clone https://github.com/yourusername/rag-course.git
 cd rag-course
 pip install -r requirements.txt
 ```
+> [!WARNING]
+> You can try the `ChatGPT` exercises by creating a .env with
+> the OPENAI_API_KEY variable
 
 ## ▶️ Running Examples
 
