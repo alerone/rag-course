@@ -1,6 +1,9 @@
 <div align="center">
 
-# Terminal Pokedex (Go)
+# 🧠 RAG Course – Building Retrieval-Augmented Generation Systems
+
+This repository contains the complete code and lessons from a **hands-on RAG (Retrieval-Augmented Generation) course**, developed step by step with the assistance of **ChatGPT**.  
+The course covers the main concepts and practical techniques behind modern RAG systems — from vector embeddings and FAISS indexing to re-ranking, vector databases, and LangChain chunking.
 
 ![GitHub top language](https://img.shields.io/github/languages/top/alerone/rag-course?color=%2377CDFF)
 ![GitHub last commit](https://img.shields.io/github/last-commit/alerone/rag-course?color=%23bc0bbf)
@@ -14,10 +17,7 @@
 
 </div>
 
-# 🧠 RAG Course – Building Retrieval-Augmented Generation Systems
 
-This repository contains the complete code and lessons from a **hands-on RAG (Retrieval-Augmented Generation) course**, developed step by step with the assistance of **ChatGPT**.  
-The course covers the main concepts and practical techniques behind modern RAG systems — from vector embeddings and FAISS indexing to re-ranking, vector databases, and LangChain chunking.
 
 ## 📚 Course Overview
 
