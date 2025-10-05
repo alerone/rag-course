@@ -1,4 +1,4 @@
-from chunk_text import chunk_text
+from .chunk_text import chunk_text
 
 READ_CHUNK_SIZE = 1024 * 1024
 
